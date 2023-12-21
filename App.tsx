@@ -6,7 +6,9 @@ import {Text} from './src/components/Text/Text';
 function App(): React.JSX.Element {
   return (
     <SafeAreaView>
-      <Text preset="headingLarge">test</Text>
+      <Text preset="headingLarge" style={{fontFamily: 'Satoshi-Italic'}}>
+        test
+      </Text>
     </SafeAreaView>
   );
 }
