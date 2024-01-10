@@ -1686,7 +1686,7 @@
   dependencies:
     "@react-native/codegen" "0.73.2"
 
-"@react-native/babel-preset@0.73.19", "@react-native/babel-preset@^0.73.18":
+"@react-native/babel-preset@0.73.19", "@react-native/babel-preset@^0.73.19":
   version "0.73.19"
   resolved "https://registry.yarnpkg.com/@react-native/babel-preset/-/babel-preset-0.73.19.tgz#a6c0587651804f8f01d6f3b7729f1d4a2d469691"
   integrity sha512-ujon01uMOREZecIltQxPDmJ6xlVqAUFGI/JCSpeVYdxyXBoBH5dBb0ihj7h6LKH1q1jsnO9z4MxfddtypKkIbg==
@@ -1785,7 +1785,7 @@
     serve-static "^1.13.1"
     temp-dir "^2.0.0"
 
-"@react-native/eslint-config@^0.73.1":
+"@react-native/eslint-config@^0.73.2":
   version "0.73.2"
   resolved "https://registry.yarnpkg.com/@react-native/eslint-config/-/eslint-config-0.73.2.tgz#40b2cd8ce245e90c885b8ab15fae1219a946bfac"
   integrity sha512-YzMfes19loTfbrkbYNAfHBDXX4oRBzc5wnvHs4h2GIHUj6YKs5ZK5lldqSrBJCdZAI3nuaO9Qj+t5JRwou571w==
@@ -1829,7 +1829,7 @@
     hermes-parser "0.15.0"
     nullthrows "^1.1.1"
 
-"@react-native/metro-config@^0.73.2":
+"@react-native/metro-config@^0.73.3":
   version "0.73.3"
   resolved "https://registry.yarnpkg.com/@react-native/metro-config/-/metro-config-0.73.3.tgz#15f5e1393258148fadb285821dd9b037ea411459"
   integrity sha512-aIVh+lM52n7/RFDXLDiIp1vI21jc9thm2VxdkP7KwxMut7VvW+2tO38zKt74/2ker2ca0205tbf3pyCYBvV6Ww==
@@ -5418,7 +5418,7 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-native@0.73.*:
+react-native@0.73.2:
   version "0.73.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.73.2.tgz#74ee163c8189660d41d1da6560411da7ce41a608"
   integrity sha512-7zj9tcUYpJUBdOdXY6cM8RcXYWkyql4kMyGZflW99E5EuFPoC7Ti+ZQSl7LP9ZPzGD0vMfslwyDW0I4tPWUCFw==
