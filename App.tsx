@@ -12,20 +12,20 @@ function App(): React.JSX.Element {
         alignItems: 'center',
         gap: 16,
       }}>
-      <Text preset="headingLarge">Criar Encomendas</Text>
+      <Text preset="headingLarge">Heading Large</Text>
 
-      <Text preset="headingMedium">Criar Encomendas</Text>
+      <Text preset="headingMedium">Heading Medium</Text>
 
-      <Text preset="headingSmall">Criar Encomendas</Text>
+      <Text preset="headingSmall">Heading Small</Text>
 
       <Text italic preset="headingLarge">
-        Criar Encomendas
+        Heading Large Italic
       </Text>
       <Text italic preset="headingMedium">
-        Criar Encomendas
+        Heading Medium Italic
       </Text>
       <Text italic preset="headingSmall">
-        Criar Encomendas
+        Heading Small Italic
       </Text>
     </SafeAreaView>
   );
